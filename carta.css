@@ -1,0 +1,40 @@
+.all {
+    font-family: "Courier New";
+    background-color: rgb(249, 249, 232);
+    width: 595px;
+    height: 842px;
+    border: 3px solid;
+    border-color: darkorange;
+    padding: 10px;
+    margin: 20px;
+}
+
+.date {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.hello {
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.text {
+    text-align: justify;
+    margin-bottom: 30px;
+    text-indent: 50px;
+    line-height: 2;
+}
+
+.bye {
+    margin-bottom: 15px;
+}
+
+p {
+    margin: 0px;
+}
